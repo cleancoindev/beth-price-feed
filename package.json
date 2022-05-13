@@ -32,7 +32,7 @@
     "web3-provider-engine": "^16.0.1"
   },
   "dependencies": {
-    "@ethersproject/abi": "^5.4.0",
+    "@ethersproject/abi": "^5.6.1",
     "axios": "^0.21.4",
     "bignumber.js": "^9.0.1",
     "jsonrpc-lite": "^2.2.0"
